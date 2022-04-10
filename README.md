@@ -1,5 +1,7 @@
 # SWWP-infection-detection
-These scripts were used for processing and analyzing hyperspectral data from [insert reference here]
+These scripts were used for processing and analyzing hyperspectral data from Haagsma, Marja, et al. "Using hyperspectral imagery to detect an invasive fungal pathogen and symptom severity in Pinus strobiformis seedlings of different genotypes." Remote Sensing 12.24 (2020): 4041.
+
+Data is available from Oregon State University's Scholars Archive: Haagsma, M.; Page, G.F.M.; Johnson, J.S. Hyperspectral Imagery of Pinus Strobiformis Infected with Fungal Pathogen, Version 1; Oregon State University: Corvallis, OR, USA, 2020. 
 
 
 This documentation file was generated on 2020-10-19 by Marja Haagsma
